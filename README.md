@@ -1,23 +1,4 @@
-<div align="center">
-  <a href="https://lemma.wiki">
-    <img src="brand/mark.svg" alt="Lemma — the Tangent" width="72" />
-  </a>
 
-  <h1>Lemma</h1>
-
-  <p>
-    <strong>An interactive math textbook built backwards.</strong><br />
-    We start with the question. The math comes after.
-  </p>
-
-  <p>
-    <a href="https://lemma.wiki">lemma.wiki</a>
-    &nbsp;·&nbsp;
-    <a href="./README.ko.md">한국어 버전</a>
-    &nbsp;·&nbsp;
-    <a href="./brand/README.md">brand kit</a>
-  </p>
-</div>
 
 ---
 
